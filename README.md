@@ -38,10 +38,10 @@ I'm a PhD Student and AI researcher at [**AImageLab, Unimore**](https://aimagela
 ---
 
 ## 📖 **Latest Papers**
-- 📌 **Update Your Transformer to the Latest Release: Re-Basin of Task Vectors** *(ICML 2025)*
-- 📌 **Towards Unbiased Continual Learning: Avoiding Forgetting in the Presence of Spurious Correlations** *(WACV 2025)*
+- 📌 **Update Your Transformer to the Latest Release: Re-Basin of Task Vectors** *(ICML 2025)* (Code soon)
+- 📌 **Towards Unbiased Continual Learning: Avoiding Forgetting in the Presence of Spurious Correlations** *(WACV 2025)* ([Code](https://github.com/aimagelab/mammoth))
 - 📌 **Beyond the Surface: Comprehensive Analysis of Implicit Bias in Vision-Language Models** *(ECCV Workshops 2024)*
-- 📌 **Clusterfix: A cluster-based debiasing approach without protected-group supervision** *(WACV 2024)*
+- 📌 **Clusterfix: A cluster-based debiasing approach without protected-group supervision** *(WACV 2024)* ([Code](https://github.com/Jackpepito/ClusterFix))
 
 📚 [**Explore more on Google Scholar**](https://scholar.google.com/citations?user=tXWQLf8AAAAJ&hl=it&oi=ao)
 
